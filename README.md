@@ -1,4 +1,4 @@
-# recipe finder all
+# recipe finder app
 This recipe finder application build with vanilla javascript using MVC patterns
 
 Features:
